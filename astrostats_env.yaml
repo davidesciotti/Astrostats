@@ -17,5 +17,5 @@ dependencies:
     - corner
     - seaborn
     - astropy
-    - nautilus
+    - nautilus-sampler
   
