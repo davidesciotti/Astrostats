@@ -1,0 +1,21 @@
+# This is the environment file for the `spaceborne` conda environment
+
+name: astrostats
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13.*
+  - pip
+  - numpy
+  - scipy
+  - matplotlib
+  - getdist
+  - pip:
+    - cobaya 
+    - emcee
+    - corner
+    - seaborn
+    - astropy
+    - nautilus
+  
