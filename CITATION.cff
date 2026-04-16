@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "Astrostats"
+message: "If you use this software, please cite it as below."
+type: software
+
+authors:
+  - family-names: "Sciotti"
+    given-names: "Davide"
+
+repository-code: "https://github.com/davidesciotti/Astrostats"
+url: "https://github.com/davidesciotti/Astrostats"
+license: "MIT"
+
+abstract: >-
+  This repository contains an exercise notebook used for the April 2026 PhD course in 
+  Astrostatistics at the University of Rome Tor Vergata. The notebook illustrates  
+  frequentist and bayesian inference methods, model selection, and fisher-matrix 
+  forecasts, using the Supernova Cosmology Project (SCP) data as a case study.
+
+keywords:
+  - statistics
+  - frequentist 
+  - bayesian
+  - fisher-matrix
+  - forecasts
+  - likelihood
+  - model-selection
+  - mcmc
